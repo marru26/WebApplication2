@@ -31,3 +31,4 @@ C:\Users\sabil\Documents\bilalfolder\VS Code\_testAppService\WebApplication2\Web
 C:\Users\sabil\Documents\bilalfolder\VS Code\_testAppService\WebApplication2\WebApplication2\obj\Release\net8.0\WebApplication2.pdb
 C:\Users\sabil\Documents\bilalfolder\VS Code\_testAppService\WebApplication2\WebApplication2\obj\Release\net8.0\WebApplication2.genruntimeconfig.cache
 C:\Users\sabil\Documents\bilalfolder\VS Code\_testAppService\WebApplication2\WebApplication2\obj\Release\net8.0\ref\WebApplication2.dll
+C:\Users\sabil\Documents\bilalfolder\VS Code\_testAppService\WebApplication2\WebApplication2\obj\Release\net8.0\WebApplication2.sourcelink.json

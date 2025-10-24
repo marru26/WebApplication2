@@ -34,7 +34,10 @@
                 @Html.DisplayFor(modelItem => item.IsCompleted)
             </td>
             <td>
-                @Html.DisplayFor(modelItem => item.DueDate)
+                @{ 
+                    var dueDateClass = (item.DueDate <= DateTime.Now.AddDays(3) && !item.IsCompleted) ? "text-danger" : "";
+                }
+                <span class="@dueDateClass">@Html.DisplayFor(modelItem => item.DueDate)</span>
             </td>
             <td>
                 <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
